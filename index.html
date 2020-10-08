@@ -1,9 +1,52 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="styles.css">
     <title>Hello World</title>
   </head>
   <body>
     <h1>Hello World</h1>
+    <h2>Workshop: Embedding media stuff</h2>
+    <section>
+      <section>
+        <h3>- Embed image with styling</h3>
+        <img src="https://i.pinimg.com/originals/01/00/ea/0100ea781ee13d9feb104ac1c3a1ccf1.jpg"
+        alt="smiling owl">
+        <p>Source:
+          <a href="https://i.pinimg.com/originals/01/00/ea/0100ea781ee13d9feb104ac1c3a1ccf1.jpg">
+            Click me!
+          </a>
+        </p>
+      </section>
+      <section>
+        <h3>- Embed music</h3>
+        <audio controls>
+          <source src="music.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+      </section>
+      <section>
+        <h3>- Embed video</h3>
+        <video width="320" height="240" controls>
+          <source src="Vegas.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </section>
+      <section>
+        <h3>- Embed youtube</h3>
+        <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+        </iframe>
+      </section>
+      <section>
+        <h3>- Embed map</h3>
+        <iframe width="420" height="315" src="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=software+ companies&aq=0&oq=software&sll=47.670993,-122.344752&sspn=0.263556,0.676346& ie=UTF8&hq=software+companies&hnear=&t=m&ll=47.670993,-122.344752&spn=0.263556,0.676346 &output=embed">
+        </iframe>
+      </section>
+    </section>
+    <footer>
+      <p id="footer-gallery">
+        &copy; 2020 Tetiana Gordin
+      </p>
+    </footer>
   </body>
 </html>
