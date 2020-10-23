@@ -121,9 +121,9 @@ section {
 }
 
 #submit-form {
-  height: 6vh;
+  height: 5vh;
   width: 9vw;
-  font-size: 18px;
+  font-size: 16px;
   border-radius: 10px;
   background-color: #aeb3b0;
 }
