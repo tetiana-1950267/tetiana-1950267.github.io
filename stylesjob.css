@@ -1,0 +1,133 @@
+body {
+  font-family: "Helvetica";
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding-bottom: 60px;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: "Galada";
+  letter-spacing: 2px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+section {
+  display: flex;
+}
+
+.form-section, .additional-section section {
+  justify-content: space-evenly;
+}
+
+.form-section {
+  flex-direction: column;
+  border: solid;
+  border-width: 1px;
+  border-color: #3a3939;
+  margin: 10px;
+  padding-bottom: 15pt;
+}
+
+.account-section section, .personal-section section, .job-section section, .additional-section section {
+  flex-direction: row;
+}
+
+.account-section section, .personal-section section {
+  justify-content: flex-end;
+}
+
+.account-section section, .account-section label, .personal-section label, .personal-section section {
+  margin-bottom: 4pt;
+  margin-top: 4pt;
+}
+
+.job-section div, .job-section input, .personal-section input, .personal-section select, .account-section input {
+  border-color: #6d6969;
+  height: 20pt;
+
+}
+
+.account-section section {
+  margin-right: 17vw;
+}
+
+.account-section input {
+  width: 350pt;
+  margin-left: 30pt;
+}
+
+.personal-section section {
+  margin-right: 7vh;
+  margin-left: 7vh;
+}
+
+.personal-section section div {
+  margin-right: 10pt;
+}
+
+.personal-section section div, .personal-section input, .personal-section select {
+  margin-left: 10pt;
+}
+
+.personal-section label {
+  width: 130pt;
+}
+
+.one-field {
+  width: 548pt;
+}
+
+.two-fields {
+  width: 239pt;
+}
+
+.two-fields2 {
+  width: 198pt;
+}
+
+.three-fields {
+  width: 154pt;
+}
+
+.job-section section {
+  justify-content: space-around;
+  margin-right: 14vh;
+  margin-left: 14vh;
+  height: 35pt;
+}
+
+.job-section div, .job-section input {
+  margin-bottom: 10pt;
+  margin-left: 5pt;
+}
+
+.additional-section section {
+  margin-right: 10vh;
+  margin-left: 10vh;
+}
+
+.additional-section textarea {
+  height: 150pt;
+  width: 500pt;
+}
+
+#submit-form {
+  height: 7vh;
+  width: 10vw;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: #aeb3b0;
+}
+
+#submit-form:hover {
+  color: white;
+}
