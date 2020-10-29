@@ -1,0 +1,305 @@
+
+/* ----------------------------------------------------
+	 General styles
+------------------------------------------------------- */
+body {
+  background-color: white;
+  background-image: url(../img/bg.jpg);
+  background-position: left top;
+  background-repeat: repeat;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrapper {
+  background: white;
+  margin: 70px auto;
+  width: 90%;
+  max-width: 1250px;
+  overflow: hidden;
+  border: 6px solid #eaeaea;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: 1.1em;
+  font-family: 'Oxygen', sans-serif;
+  color: #333;
+  line-height: 1.7em;
+  margin-top: 14px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Qwigley', Helvetica, Sans-serif;
+  font-size: 2.2em;
+  font-weight: 600;
+  color: #4f4d47;
+  margin-top: 50px;
+  margin-bottom: 0;
+  text-align: center;
+  line-height: 1.7em;
+}
+
+h2 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #898989;
+  margin-top: 40px;
+  margin-bottom: 34px;
+  text-align: center;
+  line-height: 1.7em;
+}
+
+h3 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #898989;
+  margin-top: 16px;
+  margin-bottom: 14px;
+  text-align: left;
+  line-height: 1.7em;
+}
+
+.heading-inner {
+  font-family: 'Qwigley', Helvetica, Sans-serif;
+  font-size: 2.2em;
+  font-weight: 600;
+  color: #4f4d47;
+  margin-top: 16px;
+  margin-bottom: 0;
+  text-align: center;
+  line-height: 1.7em;
+}
+
+/* ----------------------------------------------------
+	 Navigation and logo styles
+------------------------------------------------------- */
+.brand {
+  display: inherit;
+  margin: 0;
+  padding: 30px 0 14px;
+  text-align: center;
+  font-family: 'Qwigley', Helvetica, Sans-serif;
+  font-size: 4.1em;
+  line-height: normal;
+  color: #4f4d47;
+}
+
+.brand .title {
+  display: block;
+  padding: 10px 0 27px;
+  text-align: center;
+  font-size: 0.3em;
+  font-weight: 400;
+  text-transform: lowercase;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.navbar-default {
+  border: none;
+  background: #fff;
+  margin-top: 7px;
+  padding-bottom: 12px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #898989;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.1em;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
+.navbar-nav {
+  display: table;
+  float: none;
+  margin: 0 auto;
+  table-layout: fixed;
+}
+
+/* ----------------------------------------------------
+	 Buttons styles
+------------------------------------------------------- */
+.home-btn {
+  color: #898989;
+  background-color: transparent;
+  border: 2px solid #dadada;
+}
+
+.home-btn:hover {
+  color: #4f4d47;
+  background-color: transparent;
+  border-color: #4f4d47;
+}
+
+/* ----------------------------------------------------
+	 Home page styles
+------------------------------------------------------- */
+.main-image {
+  margin-top: 20px;
+  z-index:1;
+}
+
+.box-home {
+  color: #898989;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.1em;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  margin-top: 110px;
+}
+
+.photo-home {
+  margin-top: 60px;
+  margin-bottom: 30px;
+  margin-left: 5px;
+}
+
+.first .square {
+  width: 200px;
+  height: 200px;
+  border: 10px solid white;
+  position: absolute;
+  top: 89px;
+  right: 39px;
+  z-index: 1;
+}
+
+/* ----------------------------------------------------
+	 About page styles
+------------------------------------------------------- */
+.margin-about {
+  margin-top: -32px;
+}
+
+.box-about {
+  color: #898989;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.1em;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  margin-top: 68px;
+}
+
+.photo-about {
+  margin-top: 169px;
+  margin-bottom: 30px;
+}
+
+.text-about {
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #4f4d47;
+}
+
+/* ----------------------------------------------------
+	 Collections page styles
+------------------------------------------------------- */
+.margin-collection {
+  margin-top: 30px;
+}
+
+.portfolio-item {
+  margin: 0;
+  padding: 10pt;
+}
+
+figure.effect-moses img {
+  opacity: 0.85;
+}
+
+figure.effect-moses p {
+  float: right;
+  text-align: left;
+  font-size: 0.9em;
+}
+
+figure.effect-moses:hover img {
+  opacity: 0.6;
+}
+
+/* ----------------------------------------------------
+	 Contact page styles
+------------------------------------------------------- */
+.box-contact {
+  font-family: 'Oxygen', sans-serif;
+  border-top: 1px solid #dddddd;
+  margin-top: 68px;
+}
+
+#contact-area input, #contact-area textarea {
+  padding: 5px;
+  width: 64%;
+  margin: 0px 0px 10px 0px;
+  border: 2px solid #dadada;
+}
+
+#contact-area textarea {
+  height: 90px;
+}
+
+#contact-area input.submit-button {
+  width: 100px;
+  float: left;
+  margin-left: 116px;
+  color: #898989;
+  background-color: transparent;
+  border: 2px solid #dadada;
+}
+
+label {
+  float: left;
+  text-align: left;
+  margin-right: 15px;
+  width: 100px;
+  padding-top: 5px;
+  font-size: 1em;
+  color: #4f4d47;
+}
+
+.photo-contact {
+  margin-top: 120px;
+  margin-left: 5px;
+}
+
+/* ----------------------------------------------------
+	 Footer
+------------------------------------------------------- */
+.footer {
+  color: #898989;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.1em;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  margin-top: 54px;
+  margin-bottom: 72px;
+}
+
+.footer h5 {
+  font-size: 1em;
+  font-weight: 400;
+  color: #898989;
+  margin-top: 18px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+a{color:#428bca;text-decoration:none}
+.text-center{text-align:center}
+.col-xs-offset-3{margin-left:25%}
+.col-md-4,.col-md-6{float:left}
+.col-md-6{width:50%}
+.col-md-4{width:33.33333333%}
+.col-xs-offset-1{margin-left:8.33333333%}
+.btn{display:inline-block;padding:6px 12px;margin-bottom:0;font-size:14px;font-weight:400;line-height:1.42857143;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-image:none;border:1px solid transparent;border-radius:4px}
+.nav {padding-left:0;margin-bottom:0;list-style:none}
+.nav>li>a {position:relative;display:block;padding:10px 15px}
+.navbar-nav>li {float:left}
