@@ -354,16 +354,16 @@ Year,Neighborhood,Category,Count
 2013,Castro/Upper Market,NON-CRIMINAL,488
 2013,Castro/Upper Market,OTHER OFFENSES,292
 2013,Castro/Upper Market,WARRANTS,156
-2014,Castro/Upper Market,,
-2014,Castro/Upper Market,,
-2014,Castro/Upper Market,,
-2014,Castro/Upper Market,,
-2014,Castro/Upper Market,,
-2015,Castro/Upper Market,ASSAULT,15
-2015,Castro/Upper Market,LARCENY/THEFT,4
-2015,Castro/Upper Market,NON-CRIMINAL,11
-2015,Castro/Upper Market,VEHICLE THEFT,8
-2015,Castro/Upper Market,WARRANTS,4
+2014,Castro/Upper Market,ASSAULT,202
+2014,Castro/Upper Market,LARCENY/THEFT,613
+2014,Castro/Upper Market,NON-CRIMINAL,409
+2014,Castro/Upper Market,OTHER OFFENSES,234
+2014,Castro/Upper Market,VANDALISM,198
+2015,Castro/Upper Market,ASSAULT,109
+2015,Castro/Upper Market,LARCENY/THEFT,573
+2015,Castro/Upper Market,NON-CRIMINAL,303
+2015,Castro/Upper Market,OTHER OFFENSES,243
+2015,Castro/Upper Market,VANDALISM,144
 2016,Castro/Upper Market,ASSAULT,150
 2016,Castro/Upper Market,LARCENY/THEFT,417
 2016,Castro/Upper Market,NON-CRIMINAL,190
@@ -429,16 +429,16 @@ Year,Neighborhood,Category,Count
 2013,Chinatown,NON-CRIMINAL,269
 2013,Chinatown,OTHER OFFENSES,158
 2013,Chinatown,VANDALISM,102
-2014,Chinatown,ASSAULT,1
-2014,Chinatown,,
-2014,Chinatown,,
-2014,Chinatown,NON-CRIMINAL,1
-2014,Chinatown,ROBBERY,1
-2015,Chinatown,ASSAULT,10
-2015,Chinatown,LARCENY/THEFT,6
-2015,Chinatown,NON-CRIMINAL,8
-2015,Chinatown,OTHER OFFENSES,2
-2015,Chinatown,VEHICLE THEFT,2
+2014,Chinatown,ASSAULT,114
+2014,Chinatown,LARCENY/THEFT,289
+2014,Chinatown,NON-CRIMINAL,202
+2014,Chinatown,OTHER OFFENSES,109
+2014,Chinatown,VANDALISM,95
+2015,Chinatown,ASSAULT,109
+2015,Chinatown,LARCENY/THEFT,304
+2015,Chinatown,NON-CRIMINAL,189
+2015,Chinatown,OTHER OFFENSES,99
+2015,Chinatown,VANDALISM,67
 2016,Chinatown,ASSAULT,72
 2016,Chinatown,LARCENY/THEFT,331
 2016,Chinatown,NON-CRIMINAL,184
@@ -504,16 +504,16 @@ Year,Neighborhood,Category,Count
 2013,Excelsior,NON-CRIMINAL,163
 2013,Excelsior,OTHER OFFENSES,352
 2013,Excelsior,VEHICLE THEFT,235
-2014,Excelsior,,
-2014,Excelsior,,
-2014,Excelsior,,
-2014,Excelsior,,
-2014,Excelsior,ASSAULT,1
-2015,Excelsior,ASSAULT,3
-2015,Excelsior,BURGLARY,3
-2015,Excelsior,LARCENY/THEFT,6
-2015,Excelsior,OTHER OFFENSES,10
-2015,Excelsior,VEHICLE THEFT,8
+2014,Excelsior,ASSAULT,173
+2014,Excelsior,LARCENY/THEFT,121
+2014,Excelsior,NON-CRIMINAL,130
+2014,Excelsior,OTHER OFFENSES,214
+2014,Excelsior,VEHICLE THEFT,104
+2015,Excelsior,ASSAULT,157
+2015,Excelsior,LARCENY/THEFT,98
+2015,Excelsior,NON-CRIMINAL,95
+2015,Excelsior,OTHER OFFENSES,189
+2015,Excelsior,VANDALISM,78
 2016,Excelsior,ASSAULT,116
 2016,Excelsior,LARCENY/THEFT,101
 2016,Excelsior,NON-CRIMINAL,86
@@ -579,16 +579,16 @@ Year,Neighborhood,Category,Count
 2013,Financial District/South Beach,LARCENY/THEFT,2610
 2013,Financial District/South Beach,NON-CRIMINAL,833
 2013,Financial District/South Beach,OTHER OFFENSES,593
-2014,Financial District/South Beach,,
-2014,Financial District/South Beach,,
-2014,Financial District/South Beach,,
-2014,Financial District/South Beach,,
-2014,Financial District/South Beach,,
-2015,Financial District/South Beach,ASSAULT,21
-2015,Financial District/South Beach,BURGLARY,9
-2015,Financial District/South Beach,LARCENY/THEFT,52
-2015,Financial District/South Beach,NON-CRIMINAL,27
-2015,Financial District/South Beach,OTHER OFFENSES,22
+2014,Financial District/South Beach,ASSAULT,364
+2014,Financial District/South Beach,BURGLARY,287
+2014,Financial District/South Beach,LARCENY/THEFT,1874
+2014,Financial District/South Beach,NON-CRIMINAL,614
+2014,Financial District/South Beach,OTHER OFFENSES,598
+2015,Financial District/South Beach,ASSAULT,332
+2015,Financial District/South Beach,LARCENY/THEFT,1614
+2015,Financial District/South Beach,NON-CRIMINAL,631
+2015,Financial District/South Beach,OTHER OFFENSES,402
+2015,Financial District/South Beach,VANDALISM,230
 2016,Financial District/South Beach,ASSAULT,259
 2016,Financial District/South Beach,LARCENY/THEFT,1620
 2016,Financial District/South Beach,NON-CRIMINAL,495
@@ -654,16 +654,16 @@ Year,Neighborhood,Category,Count
 2013,Hayes Valley,NON-CRIMINAL,235
 2013,Hayes Valley,OTHER OFFENSES,188
 2013,Hayes Valley,VEHICLE THEFT,139
-2014,Hayes Valley,,
-2014,Hayes Valley,,
-2014,Hayes Valley,,
-2014,Hayes Valley,FRAUD,1
-2014,Hayes Valley,OTHER OFFENSES,1
-2015,Hayes Valley,ASSAULT,7
-2015,Hayes Valley,LARCENY/THEFT,12
-2015,Hayes Valley,NON-CRIMINAL,5
-2015,Hayes Valley,VEHICLE THEFT,7
-2015,Hayes Valley,WARRANTS,6
+2014,Hayes Valley,ASSAULT,127
+2014,Hayes Valley,LARCENY/THEFT,615
+2014,Hayes Valley,NON-CRIMINAL,202
+2014,Hayes Valley,OTHER OFFENSES,189
+2014,Hayes Valley,VEHICLE THEFT,122
+2015,Hayes Valley,ASSAULT,121
+2015,Hayes Valley,LARCENY/THEFT,578
+2015,Hayes Valley,NON-CRIMINAL,176
+2015,Hayes Valley,OTHER OFFENSES,149
+2015,Hayes Valley,VANDALISM,106
 2016,Hayes Valley,ASSAULT,72
 2016,Hayes Valley,LARCENY/THEFT,529
 2016,Hayes Valley,NON-CRIMINAL,114
@@ -729,16 +729,16 @@ Year,Neighborhood,Category,Count
 2013,Glen Park,NON-CRIMINAL,59
 2013,Glen Park,OTHER OFFENSES,41
 2013,Glen Park,VEHICLE THEFT,49
-2014,Glen Park,,
-2014,Glen Park,,
-2014,Glen Park,,
-2014,Glen Park,,
-2014,Glen Park,,
-2015,Glen Park,ASSAULT,1
-2015,Glen Park,LARCENY/THEFT,2
-2015,Glen Park,NON-CRIMINAL,2
-2015,Glen Park,OTHER OFFENSES,1
-2015,Glen Park,VEHICLE THEFT,2
+2014,Glen Park,ASSAULT,32
+2014,Glen Park,LARCENY/THEFT,95
+2014,Glen Park,NON-CRIMINAL,39
+2014,Glen Park,OTHER OFFENSES,36
+2014,Glen Park,VEHICLE THEFT,37
+2015,Glen Park,ASSAULT,29
+2015,Glen Park,BURGLARY,29
+2015,Glen Park,LARCENY/THEFT,92
+2015,Glen Park,NON-CRIMINAL,41
+2015,Glen Park,OTHER OFFENSES,38
 2016,Glen Park,ASSAULT,17
 2016,Glen Park,LARCENY/THEFT,89
 2016,Glen Park,NON-CRIMINAL,33
@@ -804,16 +804,16 @@ Year,Neighborhood,Category,Count
 2013,Inner Richmond,LARCENY/THEFT,266
 2013,Inner Richmond,NON-CRIMINAL,317
 2013,Inner Richmond,OTHER OFFENSES,151
-2014,Inner Richmond,,
-2014,Inner Richmond,,
-2014,Inner Richmond,,
-2014,Inner Richmond,NON-CRIMINAL,1
-2014,Inner Richmond,OTHER OFFENSES,1
-2015,Inner Richmond,ASSAULT,1
-2015,Inner Richmond,BURGLARY,2
-2015,Inner Richmond,LARCENY/THEFT,9
-2015,Inner Richmond,NON-CRIMINAL,6
-2015,Inner Richmond,OTHER OFFENSES,1
+2014,Inner Richmond,ASSAULT,63
+2014,Inner Richmond,LARCENY/THEFT,178
+2014,Inner Richmond,NON-CRIMINAL,129
+2014,Inner Richmond,OTHER OFFENSES,118
+2014,Inner Richmond,VANDALISM,56
+2015,Inner Richmond,ASSAULT,61
+2015,Inner Richmond,LARCENY/THEFT,204
+2015,Inner Richmond,NON-CRIMINAL,135
+2015,Inner Richmond,OTHER OFFENSES,109
+2015,Inner Richmond,SUSPICIOUS OCC,49
 2016,Inner Richmond,LARCENY/THEFT,200
 2016,Inner Richmond,NON-CRIMINAL,128
 2016,Inner Richmond,OTHER OFFENSES,100
@@ -879,16 +879,16 @@ Year,Neighborhood,Category,Count
 2013,Golden Gate Park,NON-CRIMINAL,171
 2013,Golden Gate Park,OTHER OFFENSES,112
 2013,Golden Gate Park,WARRANTS,77
-2014,Golden Gate Park,,
-2014,Golden Gate Park,,
-2014,Golden Gate Park,,
-2014,Golden Gate Park,,
-2014,Golden Gate Park,NON-CRIMINAL,2
-2015,Golden Gate Park,LARCENY/THEFT,5
-2015,Golden Gate Park,NON-CRIMINAL,3
-2015,Golden Gate Park,OTHER OFFENSES,2
-2015,Golden Gate Park,VEHICLE THEFT,1
-2015,Golden Gate Park,WARRANTS,1
+2014,Golden Gate Park,DRUG/NARCOTIC,67
+2014,Golden Gate Park,LARCENY/THEFT,331
+2014,Golden Gate Park,NON-CRIMINAL,144
+2014,Golden Gate Park,OTHER OFFENSES,109
+2014,Golden Gate Park,WARRANTS,56
+2015,Golden Gate Park,ASSAULT,31
+2015,Golden Gate Park,LARCENY/THEFT,312
+2015,Golden Gate Park,NON-CRIMINAL,124
+2015,Golden Gate Park,OTHER OFFENSES,101
+2015,Golden Gate Park,VEHICLE THEFT,42
 2016,Golden Gate Park,DRUG/NARCOTIC,27
 2016,Golden Gate Park,LARCENY/THEFT,372
 2016,Golden Gate Park,NON-CRIMINAL,118
@@ -954,16 +954,16 @@ Year,Neighborhood,Category,Count
 2013,Marina,LARCENY/THEFT,633
 2013,Marina,NON-CRIMINAL,240
 2013,Marina,OTHER OFFENSES,166
-2014,Marina,,
-2014,Marina,,
-2014,Marina,,
-2014,Marina,,
-2014,Marina,ASSAULT,1
-2015,Marina,ASSAULT,6
-2015,Marina,LARCENY/THEFT,19
-2015,Marina,NON-CRIMINAL,7
-2015,Marina,OTHER OFFENSES,4
-2015,Marina,SUSPICIOUS OCC,7
+2014,Marina,ASSAULT,111
+2014,Marina,BURGLARY,121
+2014,Marina,LARCENY/THEFT,567
+2014,Marina,NON-CRIMINAL,210
+2014,Marina,OTHER OFFENSES,172
+2015,Marina,BURGLARY,101
+2015,Marina,LARCENY/THEFT,598
+2015,Marina,NON-CRIMINAL,178
+2015,Marina,OTHER OFFENSES,165
+2015,Marina,VANDALISM,78
 2016,Marina,BURGLARY,61
 2016,Marina,LARCENY/THEFT,555
 2016,Marina,NON-CRIMINAL,110
@@ -1029,16 +1029,16 @@ Year,Neighborhood,Category,Count
 2013,Inner Sunset,NON-CRIMINAL,169
 2013,Inner Sunset,OTHER OFFENSES,131
 2013,Inner Sunset,VEHICLE THEFT,79
-2014,Inner Sunset,,
-2014,Inner Sunset,,
-2014,Inner Sunset,,
-2014,Inner Sunset,,
-2014,Inner Sunset,,
-2015,Inner Sunset,ASSAULT,5
-2015,Inner Sunset,LARCENY/THEFT,7
-2015,Inner Sunset,NON-CRIMINAL,5
-2015,Inner Sunset,OTHER OFFENSES,2
-2015,Inner Sunset,VEHICLE THEFT,2
+2014,Inner Sunset,BURGLARY,76
+2014,Inner Sunset,LARCENY/THEFT,231
+2014,Inner Sunset,NON-CRIMINAL,101
+2014,Inner Sunset,OTHER OFFENSES,111
+2014,Inner Sunset,ASSAULT,65
+2015,Inner Sunset,ASSAULT,61
+2015,Inner Sunset,LARCENY/THEFT,200
+2015,Inner Sunset,MISSING PERSON,58
+2015,Inner Sunset,NON-CRIMINAL,91
+2015,Inner Sunset,OTHER OFFENSES,97
 2016,Inner Sunset,ASSAULT,51
 2016,Inner Sunset,BURGLARY,56
 2016,Inner Sunset,LARCENY/THEFT,214
@@ -1104,16 +1104,16 @@ Year,Neighborhood,Category,Count
 2013,Japantown,LARCENY/THEFT,222
 2013,Japantown,NON-CRIMINAL,75
 2013,Japantown,OTHER OFFENSES,49
-2014,Japantown,,
-2014,Japantown,,
-2014,Japantown,,
-2014,Japantown,,
-2014,Japantown,,
-2015,Japantown,DRUG/NARCOTIC,1
-2015,Japantown,LARCENY/THEFT,5
-2015,Japantown,NON-CRIMINAL,3
-2015,Japantown,OTHER OFFENSES,2
-2015,Japantown,VEHICLE THEFT,2
+2014,Japantown,ASSAULT,31
+2014,Japantown,LARCENY/THEFT,210
+2014,Japantown,NON-CRIMINAL,64
+2014,Japantown,OTHER OFFENSES,31
+2014,Japantown,VANDALISM,22
+2015,Japantown,ASSAULT,25
+2015,Japantown,LARCENY/THEFT,231
+2015,Japantown,NON-CRIMINAL,51
+2015,Japantown,OTHER OFFENSES,35
+2015,Japantown,VANDALISM,28
 2016,Japantown,ASSAULT,20
 2016,Japantown,LARCENY/THEFT,221
 2016,Japantown,NON-CRIMINAL,38
@@ -1179,16 +1179,16 @@ Year,Neighborhood,Category,Count
 2013,Lakeshore,NON-CRIMINAL,105
 2013,Lakeshore,OTHER OFFENSES,110
 2013,Lakeshore,VANDALISM,48
-2014,Lakeshore,,
-2014,Lakeshore,,
-2014,Lakeshore,,
-2014,Lakeshore,,
-2014,Lakeshore,TRESPASS,1
-2015,Lakeshore,ASSAULT,4
-2015,Lakeshore,LARCENY/THEFT,7
-2015,Lakeshore,NON-CRIMINAL,4
-2015,Lakeshore,OTHER OFFENSES,5
-2015,Lakeshore,SUSPICIOUS OCC,4
+2014,Lakeshore,BURGLARY,68
+2014,Lakeshore,LARCENY/THEFT,296
+2014,Lakeshore,NON-CRIMINAL,76
+2014,Lakeshore,OTHER OFFENSES,81
+2014,Lakeshore,VANDALISM,51
+2015,Lakeshore,ASSAULT,64
+2015,Lakeshore,BURGLARY,69
+2015,Lakeshore,LARCENY/THEFT,253
+2015,Lakeshore,NON-CRIMINAL,79
+2015,Lakeshore,OTHER OFFENSES,98
 2016,Lakeshore,BURGLARY,36
 2016,Lakeshore,LARCENY/THEFT,230
 2016,Lakeshore,NON-CRIMINAL,76
@@ -1254,16 +1254,16 @@ Year,Neighborhood,Category,Count
 2013,Lincoln Park,LARCENY/THEFT,4
 2013,Lincoln Park,NON-CRIMINAL,2
 2013,Lincoln Park,VANDALISM,1
-2014,Lincoln Park,,
-2014,Lincoln Park,,
-2014,Lincoln Park,,
-2014,Lincoln Park,,
-2014,Lincoln Park,,
-2015,Lincoln Park,,
-2015,Lincoln Park,,
-2015,Lincoln Park,,
-2015,Lincoln Park,,
-2015,Lincoln Park,,
+2014,Lincoln Park,ASSAULT,1
+2014,Lincoln Park,VEHICLE THEFT,1
+2014,Lincoln Park,LARCENY/THEFT,5
+2014,Lincoln Park,NON-CRIMINAL,2
+2014,Lincoln Park,VANDALISM,1
+2015,Lincoln Park,LARCENY/THEFT,6
+2015,Lincoln Park,MISSING PERSON,1
+2015,Lincoln Park,NON-CRIMINAL,1
+2015,Lincoln Park,SUSPICIOUS OCC,2
+2015,Lincoln Park,ASSAULT,2
 2016,Lincoln Park,ASSAULT,1
 2016,Lincoln Park,BURGLARY,1
 2016,Lincoln Park,LARCENY/THEFT,7
@@ -1329,16 +1329,16 @@ Year,Neighborhood,Category,Count
 2013,Lone Mountain/USF,MISSING PERSON,101
 2013,Lone Mountain/USF,NON-CRIMINAL,148
 2013,Lone Mountain/USF,OTHER OFFENSES,135
-2014,Lone Mountain/USF,,
-2014,Lone Mountain/USF,,
-2014,Lone Mountain/USF,,
-2014,Lone Mountain/USF,,
-2014,Lone Mountain/USF,,
-2015,Lone Mountain/USF,LARCENY/THEFT,7
-2015,Lone Mountain/USF,MISSING PERSON,7
-2015,Lone Mountain/USF,NON-CRIMINAL,7
-2015,Lone Mountain/USF,OTHER OFFENSES,9
-2015,Lone Mountain/USF,VEHICLE THEFT,7
+2014,Lone Mountain/USF,LARCENY/THEFT,278
+2014,Lone Mountain/USF,MISSING PERSON,76
+2014,Lone Mountain/USF,NON-CRIMINAL,87
+2014,Lone Mountain/USF,OTHER OFFENSES,111
+2014,Lone Mountain/USF,VEHICLE THEFT,68
+2015,Lone Mountain/USF,LARCENY/THEFT,276
+2015,Lone Mountain/USF,MISSING PERSON,92
+2015,Lone Mountain/USF,NON-CRIMINAL,101
+2015,Lone Mountain/USF,OTHER OFFENSES,132
+2015,Lone Mountain/USF,VEHICLE THEFT,61
 2016,Lone Mountain/USF,LARCENY/THEFT,254
 2016,Lone Mountain/USF,MISSING PERSON,60
 2016,Lone Mountain/USF,NON-CRIMINAL,84
@@ -1404,16 +1404,16 @@ Year,Neighborhood,Category,Count
 2013,McLaren Park,NON-CRIMINAL,12
 2013,McLaren Park,OTHER OFFENSES,14
 2013,McLaren Park,VANDALISM,6
-2014,McLaren Park,,
-2014,McLaren Park,,
-2014,McLaren Park,,
-2014,McLaren Park,,
-2014,McLaren Park,,
-2015,McLaren Park,,
-2015,McLaren Park,,
-2015,McLaren Park,,
-2015,McLaren Park,OTHER OFFENSES,1
-2015,McLaren Park,SECONDARY CODES,1
+2014,McLaren Park,ASSAULT,7
+2014,McLaren Park,LARCENY/THEFT,11
+2014,McLaren Park,OTHER OFFENSES,15
+2014,McLaren Park,ROBBERY,7
+2014,McLaren Park,VANDALISM,8
+2015,McLaren Park,LARCENY/THEFT,16
+2015,McLaren Park,NON-CRIMINAL,11
+2015,McLaren Park,OTHER OFFENSES,10
+2015,McLaren Park,ROBBERY,7
+2015,McLaren Park,VANDALISM,7
 2016,McLaren Park,ASSAULT,7
 2016,McLaren Park,LARCENY/THEFT,17
 2016,McLaren Park,OTHER OFFENSES,9
@@ -1479,16 +1479,16 @@ Year,Neighborhood,Category,Count
 2013,Mission,LARCENY/THEFT,2187
 2013,Mission,NON-CRIMINAL,1393
 2013,Mission,OTHER OFFENSES,1477
-2014,Mission,,
-2014,Mission,,
-2014,Mission,ARSON,1
-2014,Mission,ASSAULT,5
-2014,Mission,NON-CRIMINAL,3
-2015,Mission,ASSAULT,40
-2015,Mission,LARCENY/THEFT,30
-2015,Mission,NON-CRIMINAL,36
-2015,Mission,OTHER OFFENSES,34
-2015,Mission,WARRANTS,19
+2014,Mission,ASSAULT,1034
+2014,Mission,VANDALISM,485
+2014,Mission,LARCENY/THEFT,1343
+2014,Mission,NON-CRIMINAL,984
+2014,Mission,OTHER OFFENSES,1401
+2015,Mission,ASSAULT,984
+2015,Mission,LARCENY/THEFT,1234
+2015,Mission,NON-CRIMINAL,704
+2015,Mission,OTHER OFFENSES,743
+2015,Mission,VANDALISM,328
 2016,Mission,ASSAULT,585
 2016,Mission,LARCENY/THEFT,1122
 2016,Mission,NON-CRIMINAL,605
@@ -1554,16 +1554,16 @@ Year,Neighborhood,Category,Count
 2013,Nob Hill,LARCENY/THEFT,702
 2013,Nob Hill,NON-CRIMINAL,335
 2013,Nob Hill,OTHER OFFENSES,252
-2014,Nob Hill,,
-2014,Nob Hill,,
-2014,Nob Hill,,
-2014,Nob Hill,,
-2014,Nob Hill,ASSAULT,2
-2015,Nob Hill,ASSAULT,11
-2015,Nob Hill,LARCENY/THEFT,17
-2015,Nob Hill,NON-CRIMINAL,17
-2015,Nob Hill,OTHER OFFENSES,7
-2015,Nob Hill,WARRANTS,4
+2014,Nob Hill,ASSAULT,167
+2014,Nob Hill,LARCENY/THEFT,432
+2014,Nob Hill,NON-CRIMINAL,265
+2014,Nob Hill,OTHER OFFENSES,185
+2014,Nob Hill,VANDALISM,109
+2015,Nob Hill,ASSAULT,145
+2015,Nob Hill,LARCENY/THEFT,463
+2015,Nob Hill,NON-CRIMINAL,212
+2015,Nob Hill,OTHER OFFENSES,167
+2015,Nob Hill,VANDALISM,111
 2016,Nob Hill,ASSAULT,116
 2016,Nob Hill,LARCENY/THEFT,555
 2016,Nob Hill,NON-CRIMINAL,206
@@ -1629,16 +1629,16 @@ Year,Neighborhood,Category,Count
 2013,Noe Valley,NON-CRIMINAL,114
 2013,Noe Valley,OTHER OFFENSES,92
 2013,Noe Valley,VEHICLE THEFT,95
-2014,Noe Valley,,
-2014,Noe Valley,,
-2014,Noe Valley,,
-2014,Noe Valley,,
-2014,Noe Valley,VEHICLE THEFT,1
-2015,Noe Valley,LARCENY/THEFT,4
-2015,Noe Valley,NON-CRIMINAL,3
-2015,Noe Valley,OTHER OFFENSES,4
-2015,Noe Valley,SUSPICIOUS OCC,3
-2015,Noe Valley,VEHICLE THEFT,6
+2014,Noe Valley,LARCENY/THEFT,186
+2014,Noe Valley,NON-CRIMINAL,78
+2014,Noe Valley,OTHER OFFENSES,89
+2014,Noe Valley,VANDALISM,56
+2014,Noe Valley,VEHICLE THEFT,72
+2015,Noe Valley,BURGLARY,61
+2015,Noe Valley,LARCENY/THEFT,153
+2015,Noe Valley,NON-CRIMINAL,63
+2015,Noe Valley,OTHER OFFENSES,78
+2015,Noe Valley,VEHICLE THEFT,67
 2016,Noe Valley,BURGLARY,51
 2016,Noe Valley,LARCENY/THEFT,138
 2016,Noe Valley,NON-CRIMINAL,48
@@ -1704,16 +1704,16 @@ Year,Neighborhood,Category,Count
 2013,North Beach,NON-CRIMINAL,269
 2013,North Beach,OTHER OFFENSES,171
 2013,North Beach,VANDALISM,92
-2014,North Beach,,
-2014,North Beach,,
-2014,North Beach,,
-2014,North Beach,,
-2014,North Beach,,
-2015,North Beach,ASSAULT,10
-2015,North Beach,LARCENY/THEFT,20
-2015,North Beach,NON-CRIMINAL,13
-2015,North Beach,OTHER OFFENSES,5
-2015,North Beach,WARRANTS,5
+2014,North Beach,ASSAULT,132
+2014,North Beach,LARCENY/THEFT,602
+2014,North Beach,NON-CRIMINAL,213
+2014,North Beach,OTHER OFFENSES,187
+2014,North Beach,VANDALISM,123
+2015,North Beach,ASSAULT,128
+2015,North Beach,LARCENY/THEFT,748
+2015,North Beach,NON-CRIMINAL,203
+2015,North Beach,OTHER OFFENSES,178
+2015,North Beach,VANDALISM,129
 2016,North Beach,ASSAULT,94
 2016,North Beach,LARCENY/THEFT,759
 2016,North Beach,NON-CRIMINAL,181
@@ -1779,16 +1779,16 @@ Year,Neighborhood,Category,Count
 2013,Oceanview/Merced/Ingleside,MISSING PERSON,110
 2013,Oceanview/Merced/Ingleside,NON-CRIMINAL,159
 2013,Oceanview/Merced/Ingleside,OTHER OFFENSES,174
-2014,Oceanview/Merced/Ingleside,,
-2014,Oceanview/Merced/Ingleside,,
-2014,Oceanview/Merced/Ingleside,,
-2014,Oceanview/Merced/Ingleside,,
-2014,Oceanview/Merced/Ingleside,ASSAULT,2
-2015,Oceanview/Merced/Ingleside,ASSAULT,5
-2015,Oceanview/Merced/Ingleside,NON-CRIMINAL,4
-2015,Oceanview/Merced/Ingleside,OTHER OFFENSES,4
-2015,Oceanview/Merced/Ingleside,ROBBERY,2
-2015,Oceanview/Merced/Ingleside,VEHICLE THEFT,2
+2014,Oceanview/Merced/Ingleside,ASSAULT,145
+2014,Oceanview/Merced/Ingleside,LARCENY/THEFT,101
+2014,Oceanview/Merced/Ingleside,NON-CRIMINAL,89
+2014,Oceanview/Merced/Ingleside,OTHER OFFENSES,167
+2014,Oceanview/Merced/Ingleside,VANDALISM,78
+2015,Oceanview/Merced/Ingleside,ASSAULT,111
+2015,Oceanview/Merced/Ingleside,LARCENY/THEFT,99
+2015,Oceanview/Merced/Ingleside,NON-CRIMINAL,96
+2015,Oceanview/Merced/Ingleside,OTHER OFFENSES,110
+2015,Oceanview/Merced/Ingleside,VEHICLE THEFT,39
 2016,Oceanview/Merced/Ingleside,ASSAULT,89
 2016,Oceanview/Merced/Ingleside,LARCENY/THEFT,100
 2016,Oceanview/Merced/Ingleside,NON-CRIMINAL,70
@@ -1854,16 +1854,16 @@ Year,Neighborhood,Category,Count
 2013,Portola,NON-CRIMINAL,98
 2013,Portola,OTHER OFFENSES,185
 2013,Portola,VEHICLE THEFT,86
-2014,Portola,,
-2014,Portola,,
-2014,Portola,,
-2014,Portola,,
-2014,Portola,,
-2015,Portola,ASSAULT,6
-2015,Portola,NON-CRIMINAL,3
-2015,Portola,OTHER OFFENSES,4
-2015,Portola,ROBBERY,2
-2015,Portola,VEHICLE THEFT,2
+2014,Portola,ASSAULT,92
+2014,Portola,LARCENY/THEFT,113
+2014,Portola,NON-CRIMINAL,75
+2014,Portola,OTHER OFFENSES,121
+2014,Portola,VEHICLE THEFT,67
+2015,Portola,ASSAULT,90
+2015,Portola,LARCENY/THEFT,131
+2015,Portola,NON-CRIMINAL,78
+2015,Portola,OTHER OFFENSES,121
+2015,Portola,VEHICLE THEFT,79
 2016,Portola,ASSAULT,59
 2016,Portola,LARCENY/THEFT,76
 2016,Portola,OTHER OFFENSES,57
@@ -1929,16 +1929,16 @@ Year,Neighborhood,Category,Count
 2013,Potrero Hill,NON-CRIMINAL,129
 2013,Potrero Hill,OTHER OFFENSES,179
 2013,Potrero Hill,VANDALISM,106
-2014,Potrero Hill,,
-2014,Potrero Hill,,
-2014,Potrero Hill,,
-2014,Potrero Hill,,
-2014,Potrero Hill,,
-2015,Potrero Hill,BURGLARY,4
-2015,Potrero Hill,LARCENY/THEFT,4
-2015,Potrero Hill,NON-CRIMINAL,5
-2015,Potrero Hill,OTHER OFFENSES,8
-2015,Potrero Hill,WARRANTS,4
+2014,Potrero Hill,ASSAULT,112
+2014,Potrero Hill,LARCENY/THEFT,256
+2014,Potrero Hill,OTHER OFFENSES,167
+2014,Potrero Hill,VANDALISM,123
+2014,Potrero Hill,VEHICLE THEFT,99
+2015,Potrero Hill,ASSAULT,87
+2015,Potrero Hill,LARCENY/THEFT,302
+2015,Potrero Hill,OTHER OFFENSES,162
+2015,Potrero Hill,VANDALISM,101
+2015,Potrero Hill,VEHICLE THEFT,87
 2016,Potrero Hill,ASSAULT,74
 2016,Potrero Hill,LARCENY/THEFT,407
 2016,Potrero Hill,NON-CRIMINAL,72
@@ -2004,16 +2004,16 @@ Year,Neighborhood,Category,Count
 2013,Presidio,NON-CRIMINAL,2
 2013,Presidio,VANDALISM,2
 2013,Presidio,VEHICLE THEFT,2
-2014,Presidio,,
-2014,Presidio,,
-2014,Presidio,,
-2014,Presidio,,
-2014,Presidio,,
-2015,Presidio,,
-2015,Presidio,,
-2015,Presidio,,
-2015,Presidio,,
-2015,Presidio,,
+2014,Presidio,LARCENY/THEFT,9
+2014,Presidio,NON-CRIMINAL,1
+2014,Presidio,ROBBERY,1
+2014,Presidio,VANDALISM,1
+2014,Presidio,WARRANTS,1
+2015,Presidio,ASSAULT,2
+2015,Presidio,LARCENY/THEFT,11
+2015,Presidio,NON-CRIMINAL,3
+2015,Presidio,ROBBERY,1
+2015,Presidio,VANDALISM,1
 2016,Presidio,FRAUD,1
 2016,Presidio,LARCENY/THEFT,16
 2016,Presidio,NON-CRIMINAL,2
@@ -2079,16 +2079,16 @@ Year,Neighborhood,Category,Count
 2013,Outer Mission,NON-CRIMINAL,205
 2013,Outer Mission,OTHER OFFENSES,302
 2013,Outer Mission,VEHICLE THEFT,181
-2014,Outer Mission,,
-2014,Outer Mission,,
-2014,Outer Mission,,
-2014,Outer Mission,ASSAULT,1
-2014,Outer Mission,NON-CRIMINAL,1
-2015,Outer Mission,ASSAULT,8
-2015,Outer Mission,BURGLARY,3
-2015,Outer Mission,LARCENY/THEFT,5
-2015,Outer Mission,ROBBERY,3
-2015,Outer Mission,VEHICLE THEFT,7
+2014,Outer Mission,ASSAULT,121
+2014,Outer Mission,LARCENY/THEFT,178
+2014,Outer Mission,NON-CRIMINAL,174
+2014,Outer Mission,OTHER OFFENSES,309
+2014,Outer Mission,VANDALISM,101
+2015,Outer Mission,ASSAULT,113
+2015,Outer Mission,LARCENY/THEFT,127
+2015,Outer Mission,NON-CRIMINAL,103
+2015,Outer Mission,OTHER OFFENSES,202
+2015,Outer Mission,VANDALISM,66
 2016,Outer Mission,ASSAULT,98
 2016,Outer Mission,LARCENY/THEFT,108
 2016,Outer Mission,NON-CRIMINAL,79
@@ -2154,16 +2154,16 @@ Year,Neighborhood,Category,Count
 2013,Outer Richmond,NON-CRIMINAL,293
 2013,Outer Richmond,OTHER OFFENSES,195
 2013,Outer Richmond,VEHICLE THEFT,133
-2014,Outer Richmond,,
-2014,Outer Richmond,,
-2014,Outer Richmond,,
-2014,Outer Richmond,NON-CRIMINAL,1
-2014,Outer Richmond,OTHER OFFENSES,1
-2015,Outer Richmond,ASSAULT,3
-2015,Outer Richmond,BURGLARY,3
-2015,Outer Richmond,LARCENY/THEFT,11
-2015,Outer Richmond,NON-CRIMINAL,9
-2015,Outer Richmond,OTHER OFFENSES,6
+2014,Outer Richmond,ASSAULT,118
+2014,Outer Richmond,LARCENY/THEFT,221
+2014,Outer Richmond,NON-CRIMINAL,167
+2014,Outer Richmond,OTHER OFFENSES,200
+2014,Outer Richmond,VANDALISM,124
+2015,Outer Richmond,ASSAULT,90
+2015,Outer Richmond,BURGLARY,81
+2015,Outer Richmond,LARCENY/THEFT,321
+2015,Outer Richmond,NON-CRIMINAL,178
+2015,Outer Richmond,OTHER OFFENSES,201
 2016,Outer Richmond,ASSAULT,72
 2016,Outer Richmond,LARCENY/THEFT,427
 2016,Outer Richmond,NON-CRIMINAL,153
@@ -2229,16 +2229,16 @@ Year,Neighborhood,Category,Count
 2013,Pacific Heights,NON-CRIMINAL,156
 2013,Pacific Heights,OTHER OFFENSES,146
 2013,Pacific Heights,VEHICLE THEFT,118
-2014,Pacific Heights,,
-2014,Pacific Heights,,
-2014,Pacific Heights,,
-2014,Pacific Heights,,
-2014,Pacific Heights,,
-2015,Pacific Heights,ASSAULT,4
-2015,Pacific Heights,LARCENY/THEFT,13
-2015,Pacific Heights,NON-CRIMINAL,4
-2015,Pacific Heights,OTHER OFFENSES,6
-2015,Pacific Heights,VEHICLE THEFT,5
+2014,Pacific Heights,BURGLARY,123
+2014,Pacific Heights,LARCENY/THEFT,312
+2014,Pacific Heights,NON-CRIMINAL,109
+2014,Pacific Heights,OTHER OFFENSES,132
+2014,Pacific Heights,VANDALISM,85
+2015,Pacific Heights,ASSAULT,69
+2015,Pacific Heights,BURGLARY,70
+2015,Pacific Heights,LARCENY/THEFT,378
+2015,Pacific Heights,NON-CRIMINAL,86
+2015,Pacific Heights,OTHER OFFENSES,99
 2016,Pacific Heights,BURGLARY,57
 2016,Pacific Heights,LARCENY/THEFT,410
 2016,Pacific Heights,NON-CRIMINAL,103
@@ -2304,16 +2304,16 @@ Year,Neighborhood,Category,Count
 2013,Presidio Heights,OTHER OFFENSES,55
 2013,Presidio Heights,VANDALISM,54
 2013,Presidio Heights,VEHICLE THEFT,45
-2014,Presidio Heights,,
-2014,Presidio Heights,,
-2014,Presidio Heights,,
-2014,Presidio Heights,,
-2014,Presidio Heights,,
-2015,Presidio Heights,BURGLARY,1
-2015,Presidio Heights,LARCENY/THEFT,5
-2015,Presidio Heights,MISSING PERSON,1
-2015,Presidio Heights,OTHER OFFENSES,2
-2015,Presidio Heights,VEHICLE THEFT,1
+2014,Presidio Heights,ASSAULT,41
+2014,Presidio Heights,BURGLARY,38
+2014,Presidio Heights,LARCENY/THEFT,98
+2014,Presidio Heights,NON-CRIMINAL,43
+2014,Presidio Heights,OTHER OFFENSES,71
+2015,Presidio Heights,ASSAULT,16
+2015,Presidio Heights,LARCENY/THEFT,67
+2015,Presidio Heights,NON-CRIMINAL,49
+2015,Presidio Heights,OTHER OFFENSES,45
+2015,Presidio Heights,VANDALISM,24
 2016,Presidio Heights,BURGLARY,15
 2016,Presidio Heights,LARCENY/THEFT,82
 2016,Presidio Heights,NON-CRIMINAL,30
@@ -2379,16 +2379,16 @@ Year,Neighborhood,Category,Count
 2013,Russian Hill,NON-CRIMINAL,163
 2013,Russian Hill,OTHER OFFENSES,131
 2013,Russian Hill,VEHICLE THEFT,73
-2014,Russian Hill,,
-2014,Russian Hill,,
-2014,Russian Hill,,
-2014,Russian Hill,,
-2014,Russian Hill,,
-2015,Russian Hill,FRAUD,3
-2015,Russian Hill,LARCENY/THEFT,9
-2015,Russian Hill,NON-CRIMINAL,5
-2015,Russian Hill,OTHER OFFENSES,3
-2015,Russian Hill,VANDALISM,5
+2014,Russian Hill,BURGLARY,101
+2014,Russian Hill,LARCENY/THEFT,343
+2014,Russian Hill,NON-CRIMINAL,123
+2014,Russian Hill,OTHER OFFENSES,98
+2014,Russian Hill,VEHICLE THEFT,92
+2015,Russian Hill,BURGLARY,76
+2015,Russian Hill,LARCENY/THEFT,478
+2015,Russian Hill,NON-CRIMINAL,422
+2015,Russian Hill,OTHER OFFENSES,89
+2015,Russian Hill,VANDALISM,67
 2016,Russian Hill,ASSAULT,50
 2016,Russian Hill,LARCENY/THEFT,454
 2016,Russian Hill,NON-CRIMINAL,104
@@ -2454,16 +2454,16 @@ Year,Neighborhood,Category,Count
 2013,Seacliff,NON-CRIMINAL,10
 2013,Seacliff,SUSPICIOUS OCC,6
 2013,Seacliff,VANDALISM,11
-2014,Seacliff,,
-2014,Seacliff,,
-2014,Seacliff,,
-2014,Seacliff,,
-2014,Seacliff,,
-2015,Seacliff,,
-2015,Seacliff,,
-2015,Seacliff,LARCENY/THEFT,1
-2015,Seacliff,NON-CRIMINAL,1
-2015,Seacliff,OTHER OFFENSES,1
+2014,Seacliff,BURGLARY,8
+2014,Seacliff,LARCENY/THEFT,15
+2014,Seacliff,OTHER OFFENSES,6
+2014,Seacliff,SUSPICIOUS OCC,6
+2014,Seacliff,VANDALISM,9
+2015,Seacliff,ASSAULT,6
+2015,Seacliff,LARCENY/THEFT,14
+2015,Seacliff,NON-CRIMINAL,12
+2015,Seacliff,OTHER OFFENSES,5
+2015,Seacliff,VANDALISM,5
 2016,Seacliff,LARCENY/THEFT,10
 2016,Seacliff,OTHER OFFENSES,4
 2016,Seacliff,SUSPICIOUS OCC,6
@@ -2529,16 +2529,16 @@ Year,Neighborhood,Category,Count
 2013,South of Market,NON-CRIMINAL,1650
 2013,South of Market,OTHER OFFENSES,1355
 2013,South of Market,WARRANTS,772
-2014,South of Market,,
-2014,South of Market,,
-2014,South of Market,,
-2014,South of Market,ASSAULT,1
-2014,South of Market,EMBEZZLEMENT,1
-2015,South of Market,ASSAULT,31
-2015,South of Market,LARCENY/THEFT,74
-2015,South of Market,NON-CRIMINAL,43
-2015,South of Market,OTHER OFFENSES,28
-2015,South of Market,WARRANTS,18
+2014,South of Market,ASSAULT,735
+2014,South of Market,WARRANTS,750
+2014,South of Market,LARCENY/THEFT,2453
+2014,South of Market,NON-CRIMINAL,1093
+2014,South of Market,OTHER OFFENSES,1378
+2015,South of Market,ASSAULT,784
+2015,South of Market,LARCENY/THEFT,2498
+2015,South of Market,NON-CRIMINAL,984
+2015,South of Market,OTHER OFFENSES,822
+2015,South of Market,WARRANTS,423
 2016,South of Market,ASSAULT,445
 2016,South of Market,LARCENY/THEFT,2341
 2016,South of Market,NON-CRIMINAL,712
@@ -2604,16 +2604,16 @@ Year,Neighborhood,Category,Count
 2013,Sunset/Parkside,NON-CRIMINAL,459
 2013,Sunset/Parkside,OTHER OFFENSES,317
 2013,Sunset/Parkside,VANDALISM,161
-2014,Sunset/Parkside,,
-2014,Sunset/Parkside,,
-2014,Sunset/Parkside,,
-2014,Sunset/Parkside,ARSON,1
-2014,Sunset/Parkside,NON-CRIMINAL,1
-2015,Sunset/Parkside,LARCENY/THEFT,8
-2015,Sunset/Parkside,NON-CRIMINAL,11
-2015,Sunset/Parkside,OTHER OFFENSES,8
-2015,Sunset/Parkside,SUSPICIOUS OCC,6
-2015,Sunset/Parkside,VEHICLE THEFT,5
+2014,Sunset/Parkside,ASSAULT,143
+2014,Sunset/Parkside,LARCENY/THEFT,321
+2014,Sunset/Parkside,NON-CRIMINAL,312
+2014,Sunset/Parkside,OTHER OFFENSES,245
+2014,Sunset/Parkside,VEHICLE THEFT,167
+2015,Sunset/Parkside,ASSAULT,171
+2015,Sunset/Parkside,LARCENY/THEFT,298
+2015,Sunset/Parkside,MISSING PERSON,212
+2015,Sunset/Parkside,NON-CRIMINAL,198
+2015,Sunset/Parkside,OTHER OFFENSES,301
 2016,Sunset/Parkside,ASSAULT,114
 2016,Sunset/Parkside,LARCENY/THEFT,357
 2016,Sunset/Parkside,NON-CRIMINAL,244
@@ -2679,16 +2679,16 @@ Year,Neighborhood,Category,Count
 2013,Tenderloin,LARCENY/THEFT,1672
 2013,Tenderloin,NON-CRIMINAL,1560
 2013,Tenderloin,OTHER OFFENSES,1529
-2014,Tenderloin,,
-2014,Tenderloin,,
-2014,Tenderloin,,
-2014,Tenderloin,ASSAULT,1
-2014,Tenderloin,VEHICLE THEFT,1
-2015,Tenderloin,ASSAULT,41
-2015,Tenderloin,LARCENY/THEFT,28
-2015,Tenderloin,NON-CRIMINAL,37
-2015,Tenderloin,OTHER OFFENSES,33
-2015,Tenderloin,WARRANTS,15
+2014,Tenderloin,ASSAULT,1156
+2014,Tenderloin,DRUG/NARCOTIC,1653
+2014,Tenderloin,LARCENY/THEFT,1132
+2014,Tenderloin,NON-CRIMINAL,1037
+2014,Tenderloin,OTHER OFFENSES,1874
+2015,Tenderloin,ASSAULT,874
+2015,Tenderloin,DRUG/NARCOTIC,367
+2015,Tenderloin,LARCENY/THEFT,1139
+2015,Tenderloin,NON-CRIMINAL,786
+2015,Tenderloin,OTHER OFFENSES,875
 2016,Tenderloin,ASSAULT,612
 2016,Tenderloin,DRUG/NARCOTIC,402
 2016,Tenderloin,LARCENY/THEFT,1048
@@ -2754,16 +2754,16 @@ Year,Neighborhood,Category,Count
 2013,Treasure Island,LARCENY/THEFT,40
 2013,Treasure Island,NON-CRIMINAL,24
 2013,Treasure Island,OTHER OFFENSES,13
-2014,Treasure Island,,
-2014,Treasure Island,,
-2014,Treasure Island,,
-2014,Treasure Island,,
-2014,Treasure Island,,
-2015,Treasure Island,,
-2015,Treasure Island,,
-2015,Treasure Island,ASSAULT,2
-2015,Treasure Island,OTHER OFFENSES,1
-2015,Treasure Island,VEHICLE THEFT,2
+2014,Treasure Island,ASSAULT,12
+2014,Treasure Island,BURGLARY,24
+2014,Treasure Island,LARCENY/THEFT,18
+2014,Treasure Island,NON-CRIMINAL,15
+2014,Treasure Island,OTHER OFFENSES,16
+2015,Treasure Island,LARCENY/THEFT,22
+2015,Treasure Island,NON-CRIMINAL,10
+2015,Treasure Island,OTHER OFFENSES,8
+2015,Treasure Island,SUSPICIOUS OCC,9
+2015,Treasure Island,VANDALISM,10
 2016,Treasure Island,ASSAULT,10
 2016,Treasure Island,LARCENY/THEFT,28
 2016,Treasure Island,NON-CRIMINAL,10
@@ -2829,16 +2829,16 @@ Year,Neighborhood,Category,Count
 2013,Twin Peaks,LARCENY/THEFT,67
 2013,Twin Peaks,NON-CRIMINAL,44
 2013,Twin Peaks,OTHER OFFENSES,42
-2014,Twin Peaks,ASSAULT,1
-2014,Twin Peaks,,
-2014,Twin Peaks,,
-2014,Twin Peaks,,
-2014,Twin Peaks,,
-2015,Twin Peaks,,
-2015,Twin Peaks,,
-2015,Twin Peaks,ASSAULT,2
-2015,Twin Peaks,LARCENY/THEFT,3
-2015,Twin Peaks,NON-CRIMINAL,6
+2014,Twin Peaks,ASSAULT,22
+2014,Twin Peaks,LARCENY/THEFT,37
+2014,Twin Peaks,NON-CRIMINAL,35
+2014,Twin Peaks,OTHER OFFENSES,21
+2014,Twin Peaks,VANDALISM,17
+2015,Twin Peaks,ASSAULT,21
+2015,Twin Peaks,LARCENY/THEFT,68
+2015,Twin Peaks,MISSING PERSON,18
+2015,Twin Peaks,NON-CRIMINAL,23
+2015,Twin Peaks,OTHER OFFENSES,26
 2016,Twin Peaks,ASSAULT,12
 2016,Twin Peaks,LARCENY/THEFT,58
 2016,Twin Peaks,NON-CRIMINAL,17
@@ -2904,16 +2904,16 @@ Year,Neighborhood,Category,Count
 2013,Western Addition,NON-CRIMINAL,365
 2013,Western Addition,OTHER OFFENSES,340
 2013,Western Addition,VANDALISM,165
-2014,Western Addition,,
-2014,Western Addition,,
-2014,Western Addition,,
-2014,Western Addition,,
-2014,Western Addition,ASSAULT,3
-2015,Western Addition,ASSAULT,12
-2015,Western Addition,LARCENY/THEFT,23
-2015,Western Addition,NON-CRIMINAL,10
-2015,Western Addition,OTHER OFFENSES,14
-2015,Western Addition,WARRANTS,9
+2014,Western Addition,ASSAULT,267
+2014,Western Addition,LARCENY/THEFT,812
+2014,Western Addition,NON-CRIMINAL,289
+2014,Western Addition,OTHER OFFENSES,389
+2014,Western Addition,VEHICLE THEFT,263
+2015,Western Addition,ASSAULT,176
+2015,Western Addition,LARCENY/THEFT,785
+2015,Western Addition,NON-CRIMINAL,243
+2015,Western Addition,OTHER OFFENSES,222
+2015,Western Addition,VANDALISM,123
 2016,Western Addition,ASSAULT,163
 2016,Western Addition,LARCENY/THEFT,815
 2016,Western Addition,NON-CRIMINAL,185
@@ -2979,16 +2979,16 @@ Year,Neighborhood,Category,Count
 2013,Visitacion Valley,NON-CRIMINAL,128
 2013,Visitacion Valley,OTHER OFFENSES,161
 2013,Visitacion Valley,VANDALISM,73
-2014,Visitacion Valley,,
-2014,Visitacion Valley,,
-2014,Visitacion Valley,,
-2014,Visitacion Valley,,
-2014,Visitacion Valley,OTHER OFFENSES,1
-2015,Visitacion Valley,ASSAULT,6
-2015,Visitacion Valley,BURGLARY,3
-2015,Visitacion Valley,LARCENY/THEFT,2
-2015,Visitacion Valley,OTHER OFFENSES,3
-2015,Visitacion Valley,VANDALISM,2
+2014,Visitacion Valley,ASSAULT,217
+2014,Visitacion Valley,BURGLARY,90
+2014,Visitacion Valley,NON-CRIMINAL,81
+2014,Visitacion Valley,OTHER OFFENSES,227
+2014,Visitacion Valley,VANDALISM,119
+2015,Visitacion Valley,ASSAULT,145
+2015,Visitacion Valley,LARCENY/THEFT,56
+2015,Visitacion Valley,NON-CRIMINAL,79
+2015,Visitacion Valley,OTHER OFFENSES,106
+2015,Visitacion Valley,VANDALISM,58
 2016,Visitacion Valley,ASSAULT,101
 2016,Visitacion Valley,LARCENY/THEFT,47
 2016,Visitacion Valley,NON-CRIMINAL,55
@@ -3054,16 +3054,16 @@ Year,Neighborhood,Category,Count
 2013,West of Twin Peaks,LARCENY/THEFT,395
 2013,West of Twin Peaks,NON-CRIMINAL,253
 2013,West of Twin Peaks,OTHER OFFENSES,222
-2014,West of Twin Peaks,,
-2014,West of Twin Peaks,,
-2014,West of Twin Peaks,,
-2014,West of Twin Peaks,,
-2014,West of Twin Peaks,,
-2015,West of Twin Peaks,ASSAULT,8
-2015,West of Twin Peaks,BURGLARY,4
-2015,West of Twin Peaks,LARCENY/THEFT,15
-2015,West of Twin Peaks,NON-CRIMINAL,8
-2015,West of Twin Peaks,OTHER OFFENSES,12
+2014,West of Twin Peaks,ASSAULT,133
+2014,West of Twin Peaks,LARCENY/THEFT,301
+2014,West of Twin Peaks,NON-CRIMINAL,212
+2014,West of Twin Peaks,OTHER OFFENSES,215
+2014,West of Twin Peaks,VEHICLE THEFT,222
+2015,West of Twin Peaks,ASSAULT,105
+2015,West of Twin Peaks,BURGLARY,67
+2015,West of Twin Peaks,LARCENY/THEFT,312
+2015,West of Twin Peaks,NON-CRIMINAL,142
+2015,West of Twin Peaks,OTHER OFFENSES,187
 2016,West of Twin Peaks,ASSAULT,64
 2016,West of Twin Peaks,BURGLARY,70
 2016,West of Twin Peaks,LARCENY/THEFT,281
